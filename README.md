@@ -1,5 +1,5 @@
 <div align="center"> <h1 align="center"> Welcome to my Github 👋 </h1> </div>
-<b>Hi, My name is Sabindra Mahato . I am a data professional.<b>
+<b>Hi, My name is Sabindra Mahato . I am a data professional and a recent graduate of a 12-week intensive data technician bootcamp, where I honed my skills in data analysis, machine learning, and data visualization. I'm deeply passionate about uncovering insights through data and aspire to leverage these skills to drive evidence-based decision-making. With a commitment to continuous learning and improvement, I am excited about the opportunities to contribute to data-driven projects and collaborate with others in the field.<b>
 
 <p></p>
 <div align="center"> <h1 align="center"> :nerd_face:	 DATA ANALYSIS TOOLS :nerd_face: </h1> </div>
